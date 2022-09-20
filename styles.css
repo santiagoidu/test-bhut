@@ -1,0 +1,11 @@
+body {
+  background: url(https://i.pinimg.com/originals/c7/34/1c/c7341c84c45e3f980146deee3ca0fc20.jpg) top center #000;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+.image-perfil {
+  height: 145px;
+  width: 128px;
+}
